@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\LA4_Asteroid_Dodger\bin\Debug\LA4_Asteroid_Dodger.exe
+C:\Users\LENOVO\source\repos\LA4_Asteroid_Dodger\bin\Debug\LA4_Asteroid_Dodger.pdb
+C:\Users\LENOVO\source\repos\LA4_Asteroid_Dodger\obj\Debug\LA4_Asteroid_Dodger.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\LA4_Asteroid_Dodger\obj\Debug\LA4_Asteroid_Dodger.Form1.resources
+C:\Users\LENOVO\source\repos\LA4_Asteroid_Dodger\obj\Debug\LA4_Asteroid_Dodger.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\LA4_Asteroid_Dodger\obj\Debug\LA4_Asteroid_Dodger.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\LA4_Asteroid_Dodger\obj\Debug\LA4_Asteroid_Dodger.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LA4_Asteroid_Dodger\obj\Debug\LA4_Asteroid_Dodger.exe
+C:\Users\LENOVO\source\repos\LA4_Asteroid_Dodger\obj\Debug\LA4_Asteroid_Dodger.pdb
