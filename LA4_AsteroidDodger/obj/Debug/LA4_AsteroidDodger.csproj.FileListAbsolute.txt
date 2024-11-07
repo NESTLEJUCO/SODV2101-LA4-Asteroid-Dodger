@@ -1,0 +1,9 @@
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA4_AsteroidDodger\bin\Debug\LA4_AsteroidDodger.exe
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA4_AsteroidDodger\bin\Debug\LA4_AsteroidDodger.pdb
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA4_AsteroidDodger\obj\Debug\LA4_AsteroidDodger.csproj.AssemblyReference.cache
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA4_AsteroidDodger\obj\Debug\LA4_AsteroidDodger.Form1.resources
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA4_AsteroidDodger\obj\Debug\LA4_AsteroidDodger.Properties.Resources.resources
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA4_AsteroidDodger\obj\Debug\LA4_AsteroidDodger.csproj.GenerateResource.cache
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA4_AsteroidDodger\obj\Debug\LA4_AsteroidDodger.csproj.CoreCompileInputs.cache
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA4_AsteroidDodger\obj\Debug\LA4_AsteroidDodger.exe
+D:\BVC-School-Files\6th Term Fall BVC Files\SODV2101 RAD\LA4_AsteroidDodger\obj\Debug\LA4_AsteroidDodger.pdb
